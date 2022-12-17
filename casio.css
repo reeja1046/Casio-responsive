@@ -1,0 +1,32 @@
+.nav-link{
+    color: #090909 !important;
+    font-size: 13px;
+}
+.nav-link{
+    font-weight: 600;
+    color: #111111 !important;
+}
+.new:hover{
+    border: 1px solid black;
+    cursor: pointer;
+  
+  }
+  .new1{
+    width: 100% !important;
+  }
+  .icons{
+    cursor: pointer;
+  }
+  .zoom:hover{
+    transform: scale(1.1);
+  
+  }
+  .footrw {
+    font-size: xx-small;
+  }
+  .productfont{
+    font-size: small;
+  }
+  .headfont {
+    font-size: small;
+  }
